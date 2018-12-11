@@ -1,0 +1,2 @@
+Edit feature1.txt
+Save this to stash
